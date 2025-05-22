@@ -26,3 +26,8 @@ a, .btn-link:hover {
 a:hover{
     color: var(--cor-destaque);
 }
+
+#img_perfil {
+    height: 200px;
+    width: 200px;
+}
